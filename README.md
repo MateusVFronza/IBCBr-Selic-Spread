@@ -5,7 +5,7 @@ O código elaborado em R gera uma matriz correlação entre o IBC Br, Taxa Selic
 
 ## Fontes
 O Sistema Gerador de Séries (SGS) do Banco Central (Bacen) foi a fonte dos dados, para encontrá-los basta acessar o site e procurar por:
-	- **4189 - Taxa de juros - Selic acumulada no mês anualizada base 252 - % a.a. \n
+	- **4189 - Taxa de juros - Selic acumulada no mês anualizada base 252 - % a.a.  <br /> 
 	- 20783 - Spread médio das operações de crédito - Total - p.p.
 	- 24364 - Índice de Atividade Econômica do Banco Central (IBC-Br) - com ajuste sazonal - Índice**
 
